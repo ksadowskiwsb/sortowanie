@@ -1,0 +1,11 @@
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\bin\Debug\netcoreapp3.0\QuickSort.exe
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\bin\Debug\netcoreapp3.0\QuickSort.deps.json
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\bin\Debug\netcoreapp3.0\QuickSort.runtimeconfig.json
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\bin\Debug\netcoreapp3.0\QuickSort.runtimeconfig.dev.json
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\bin\Debug\netcoreapp3.0\QuickSort.dll
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\bin\Debug\netcoreapp3.0\QuickSort.pdb
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\obj\Debug\netcoreapp3.0\QuickSort.csprojAssemblyReference.cache
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\obj\Debug\netcoreapp3.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\obj\Debug\netcoreapp3.0\QuickSort.AssemblyInfo.cs
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\obj\Debug\netcoreapp3.0\QuickSort.dll
+C:\Users\studentwsb\source\repos\sortowanie\QuickSort\QuickSort\obj\Debug\netcoreapp3.0\QuickSort.pdb
