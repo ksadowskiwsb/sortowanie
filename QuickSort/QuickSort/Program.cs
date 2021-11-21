@@ -33,7 +33,7 @@ namespace QuickSort
             if (left < right)
             {
                 int pivot = Partition(array, left, right);
-                QuickSort(array, left, pivot );
+                QuickSort(array, left, pivot);
                 QuickSort(array, pivot + 1, right);
             }
         }
